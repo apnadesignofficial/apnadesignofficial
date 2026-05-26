@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" width="120" />
+</p>
+
 # 👋 Hi, I'm Monty
 
 💻 Junior Frontend Developer | 🎨 Canva Designer | 🚀 Content Creator
