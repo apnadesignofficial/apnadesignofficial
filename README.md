@@ -10,7 +10,7 @@
 
 ## 🔥 About Me
 - I build modern frontend websites for real-world businesses
-- Focused on HTML, CSS, TailwindCSS & JavaScript
+- Focused on Frontend Development & Canva Designing
 - I love turning designs into live websites
 
 ---
@@ -22,6 +22,24 @@
 - JavaScript (Vanilla)
 - GitHub & Netlify
 - Canva Design
+
+---
+
+## Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JS](https://img.shields.io/badge/JavaScript-yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
+
+### Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 ---
 
@@ -41,28 +59,12 @@
 ---
 
 ## 📫 Contact
+- Email: officialapnadesign@gmail.com
 - Instagram: @apnadesignofficial
 - Pinterest: @apnadesignofficial
-- Email: officialapnadesign@gmail.com
+- Facebook Profile: https://www.facebook.com/profile.php?id=61578421796954
+- Facebook Page: https://www.facebook.com/profile.php?id=61589298015672
 
 ---
 
 ⭐ Always learning, building & improving
-
----
-
-## Tech Stack
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
-
-### Design
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
