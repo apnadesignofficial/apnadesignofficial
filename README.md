@@ -22,6 +22,7 @@
 - JavaScript (Vanilla)
 - GitHub & Netlify
 - Canva Design
+- Adobe Express
 
 ---
 
@@ -40,6 +41,7 @@
 
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![Adobe Express](https://www.adobe.com/express/)
 
 ---
 
@@ -60,10 +62,11 @@
 
 ## 📫 Contact
 - Email: officialapnadesign@gmail.com
-- Instagram: [Instagram Page](https://www.instagram.com/apnadesignofficial/?hl=en)
-- Pinterest: [Pinterest Page](https://in.pinterest.com/apnadesignofficial/)
-- Facebook Profile: [Facebook Profile](https://www.facebook.com/profile.php?id=61578421796954)
-- Facebook Page: [Facebook Page](https://www.facebook.com/profile.php?id=61589298015672)
+- [Instagram Page](https://www.instagram.com/apnadesignofficial/?hl=en)
+- [Pinterest Page](https://in.pinterest.com/apnadesignofficial/)
+- [Facebook Profile](https://www.facebook.com/profile.php?id=61578421796954)
+- [Facebook Page](https://www.facebook.com/profile.php?id=61589298015672)
+- [Youtube Channel](https://www.youtube.com/@Apnadesignofficial)
 
 ---
 
