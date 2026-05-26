@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" width="120" />
+  <img src="assets/Logo.png" width="120" />
 </p>
 
 # 👋 Hi, I'm Monty
