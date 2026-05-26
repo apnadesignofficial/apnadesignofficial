@@ -41,7 +41,7 @@
 
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Adobe Express](https://www.adobe.com/express/)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?logo=adobe&logoColor=white)
 
 ---
 
